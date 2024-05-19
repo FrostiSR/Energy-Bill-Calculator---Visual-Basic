@@ -1,0 +1,36 @@
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.xml
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.vbprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel_dos_Ramos.Form1.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel_dos_Ramos.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.vbproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.exe
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.xml
+c:\users\daniel\documents\visual studio 2015\Projects\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.pdb
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.exe.config
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.exe
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.xml
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.pdb
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.exe
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.pdb
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.xml
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.vbprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel_dos_Ramos.Form1.resources
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel_dos_Ramos.Loader.resources
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel_dos_Ramos.Resources.resources
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.vbproj.GenerateResource.Cache
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.exe.manifest
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.application
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.exe.manifest
+C:\Users\daniel\Documents\Natin\sewradj\software\Periode 3\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.application
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\bin\Debug\Daniel dos Ramos.exe.config
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.exe
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.xml
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.pdb
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.vbprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel_dos_Ramos.Form1.resources
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel_dos_Ramos.Loader.resources
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel_dos_Ramos.Resources.resources
+C:\Users\daniel\Documents\Natin\sewradj\software\Software rep 2\Daniel dos Ramos\Daniel dos Ramos\obj\Debug\Daniel dos Ramos.vbproj.GenerateResource.Cache
